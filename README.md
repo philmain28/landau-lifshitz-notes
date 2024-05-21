@@ -1,2 +1,2 @@
 # landau-lifshitz-notes
-personal note taking experiment
+This is an experiment in bending git to be used as a personal knowledge base. 
